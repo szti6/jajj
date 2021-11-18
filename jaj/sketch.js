@@ -32,7 +32,7 @@ function draw() {
   noStroke();
   
   textSize(200);
-  text(ures, 360, 300);
+  text(ures, 660, 300);
   fill(255);
   textSize(20);
   
